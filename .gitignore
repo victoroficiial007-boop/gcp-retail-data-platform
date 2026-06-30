@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Variáveis de ambiente
+.env
+
+# VS Code
+.vscode/
+
+# Arquivos de dados
+*.parquet
+*.log
